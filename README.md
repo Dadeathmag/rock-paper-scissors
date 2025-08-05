@@ -13,6 +13,7 @@ A fun and interactive browser-based **Rock, Paper, Scissors** game built with HT
 - Real-time result display (WIN / LOSE / TIE)
 - Persistent score tracking using `localStorage`
 - Reset option to clear scores anytime
+- 
 ![Screen Recording 2025-08-05 071159](https://github.com/user-attachments/assets/3efe7293-de4e-41ee-98b8-71dd1455014b)
 
 ---
