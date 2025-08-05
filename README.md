@@ -67,11 +67,6 @@ You can easily deploy this on:
 
 ---
 
-## 📸 Preview
-
-> *(Include a screenshot or GIF of the game UI here if you want)*
-
----
 
 ## 🔧 Technologies Used
 
