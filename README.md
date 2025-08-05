@@ -1,6 +1,7 @@
 # 🪨📄✂️ Rock Paper Scissors – Web Game
 
 A fun and interactive browser-based **Rock, Paper, Scissors** game built with HTML, CSS, and JavaScript. Track your wins, losses, and ties using browser `localStorage` so your scores persist even after page refresh!
+<img width="915" height="670" alt="Screenshot 2025-08-05 071218" src="https://github.com/user-attachments/assets/3296a360-fb51-433b-b34c-ae6aa16a07b8" />
 
 ---
 
@@ -8,9 +9,11 @@ A fun and interactive browser-based **Rock, Paper, Scissors** game built with HT
 
 - Play against a computer with randomized moves
 - Intuitive UI with emoji-based icons for moves
+- ![Screen Recording 2025-08-05 071119](https://github.com/user-attachments/assets/f99f2e68-c499-44d0-9812-b1fd109844c9)
 - Real-time result display (WIN / LOSE / TIE)
 - Persistent score tracking using `localStorage`
 - Reset option to clear scores anytime
+![Screen Recording 2025-08-05 071159](https://github.com/user-attachments/assets/3efe7293-de4e-41ee-98b8-71dd1455014b)
 
 ---
 
